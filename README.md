@@ -16,7 +16,9 @@ Key Achievements:
 Output:
 
 robert1014@robert1014:~/os/shell$ ./shell-2-1
+
 osh > cal 2023
+
                             2023
                             
       January               February               March          
@@ -53,11 +55,18 @@ Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa  Su Mo Tu We Th Fr Sa
 15 16 17 18 19 20 21  12 13 14 15 16 17 18  10 11 12 13 14 15 16  
 22 23 24 25 26 27 28  19 20 21 22 23 24 25  17 18 19 20 21 22 23  
 29 30 31              26 27 28 29 30        24 25 26 27 28 29 30  
-                                            31                    
+                                            31           
+                                            
 osh > cp output.txt test.txt
+
 osh > ls
+
 output.txt  shell-2-1  shell-2-1.c  test.  test.txt
+
 osh > !!
+
 output.txt  test.txt
+
 osh > exit
+
                 ...exiting
