@@ -1,3 +1,4 @@
+```
 Technologies Used: C
 
 Project Description:
@@ -11,10 +12,10 @@ Key Achievements:
 -Successfully simulated advanced shell operations, increasing understanding and practical application of Unix system-level programming.
 -Delivered a fully functional shell interface that supports multitasking and batch processing, demonstrating deep integration of Unix system concepts.
 -Provided a robust platform for testing and development purposes, exemplified by comprehensive documentation and live demonstration examples included in the project repository.
-
-
-Output:
 ```
+```
+Output:
+
 robert1014@robert1014:~/os/shell$ ./shell-2-1
 osh > cal 2023
                             2023
